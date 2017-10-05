@@ -1,0 +1,17 @@
+<IfModule rewrite_module>
+    RewriteEngine On
+    # 去吧 強制走https .*
+    #RewriteCond %{HTTPS} !=on
+    #RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [END,R=301]
+
+    # 找看看 .htm 檔案
+    RewriteCond %{REQUEST_FILENAME}.htm -s
+    RewriteRule . %{REQUEST_FILENAME}.htm [END]
+
+    RewriteCond %{REQUEST_FILENAME}.html -s
+    RewriteRule . %{REQUEST_FILENAME}.html [END]
+
+    # 再找看看 .php 檔案
+    RewriteCond %{REQUEST_FILENAME}.php -s
+    RewriteRule . %{REQUEST_FILENAME}.php [END]
+</IfModule>

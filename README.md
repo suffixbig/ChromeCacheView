@@ -1,6 +1,4 @@
 # ChromeCacheView
-如何把一個線上的網站抓下來成為全靜態網頁
-https://hackmd.io/s/SycHsoznZ 本說明筆記
 ----------------------------------------
 
 如何把一個線上的網站抓下來成為全靜態網頁
@@ -20,7 +18,9 @@ ChromeCacheView 工具下載處
 [[英文版]](https://http://www.nirsoft.net/utils/chrome_cache_view.html) [[中文版]](https://freewarehome.tw/pc/chromecacheview/)
 
 ![ChromeCacheView](https://i.imgur.com/tI0q7mp.jpg)
+
 ![ChromeCacheView3](https://i.imgur.com/eeEBnjY.jpg)
+
 ![ChromeCacheView2](https://i.imgur.com/34N2NfZ.jpg)
 
 ChromeCacheView 是一款小巧的工具程式，可讀取 Google Chrome 網頁瀏覽器的暫存區或快取 (cache) 資料夾，並顯示目前儲存在快取中的所有檔案。對於快取中的每個檔案，程式會顯示下列資訊：網址、內容類型、檔案大小、最後修改時間、最後存取時間、存取次數、失效時間、伺服器名稱以及其他資料。
@@ -387,5 +387,10 @@ AllowOverride All
 ===
 [http://h63.bkk.tw/](http://h63.bkk.tw/)
 
+本筆記hackmd網址
+===
+https://hackmd.io/s/SycHsoznZ 
 
-
+本筆記github位置
+===
+https://github.com/suffixbig/ChromeCacheView
