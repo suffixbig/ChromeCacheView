@@ -15,7 +15,7 @@
 ----------------------------------------
 ChromeCacheView 工具下載處
 
-[[英文版]](https://http://www.nirsoft.net/utils/chrome_cache_view.html) [[中文版]](https://freewarehome.tw/pc/chromecacheview/)
+[[英文版]](http://www.nirsoft.net/utils/chrome_cache_view.html) [[中文版]](https://freewarehome.tw/pc/chromecacheview/)
 
 ![ChromeCacheView](https://i.imgur.com/tI0q7mp.jpg)
 
