@@ -1,0 +1,48 @@
+移動檔案about/about.html=>./about.html
+移動檔案activities/invite/invite.html=>activities/invite.html
+移動檔案ad-detail/18159/18159.html=>ad-detail/18159.html
+移動檔案ad-detail/19676/19676.html=>ad-detail/19676.html
+移動檔案ad-detail/20567/20567.html=>ad-detail/20567.html
+移動檔案fee/fee.html=>./fee.html
+移動檔案help/help.html=>./help.html
+移動檔案login/email=>login/email.html
+移動檔案login/phone=>login/phone.html
+移動檔案new-ad/new-ad.html=>./new-ad.html
+移動檔案setting/account-money-password=>setting/account-money-password.html
+移動檔案setting/account-options/account-options.html=>setting/account-options.html
+移動檔案setting/user-blocking/user-blocking.html=>setting/user-blocking.html
+移動檔案setting/user-profile/user-profile.html=>setting/user-profile.html
+移動檔案setting/user-trusted/user-trusted.html=>setting/user-trusted.html
+移動檔案setting/user-trusting/user-trusting.html=>setting/user-trusting.html
+移動檔案setting/user-verification=>setting/user-verification.html
+移動檔案signup/phone=>signup/phone.html
+根目錄檔案Array ( [0] => buy [1] => sell ) 修改檔名buy=>buy.html移動檔案buy=>buy.html
+修改檔名sell=>sell.html移動檔案sell=>sell.html
+第1層目錄
+Array
+(
+    [0] => about/about.html
+    [1] => fee/fee.html
+    [2] => help/help.html
+    [3] => login/email
+    [4] => login/phone
+    [5] => new-ad/new-ad.html
+    [6] => setting/account-money-password
+    [7] => setting/user-verification
+    [8] => signup/phone
+)
+第2層目錄
+Array
+(
+    [0] => activities/invite/invite.html
+    [1] => ad-detail/18159/18159.html
+    [2] => ad-detail/19676/19676.html
+    [3] => ad-detail/20567/20567.html
+    [4] => setting/account-options/account-options.html
+    [5] => setting/user-blocking/user-blocking.html
+    [6] => setting/user-profile/user-profile.html
+    [7] => setting/user-trusted/user-trusted.html
+    [8] => setting/user-trusting/user-trusting.html
+)
+將.html檔案全部移動到上一層目錄
+刪除所有空目錄
