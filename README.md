@@ -361,7 +361,7 @@ rm_empty_dir($config['sdir']);//刪除所有空目錄
 
 失敗的原因 
 ===
-1.你的服務器根本不吃.htaccess 設定
+1.你的伺服器根本不吃.htaccess 設定
 2.apache 沒有 httpd的rewrite模組（mod_rewrite）
 
 # httpd.conf 設定有問題
